@@ -1,0 +1,625 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <title>財團法人保險事業發展中心</title>
+    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/Content/css_m.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/css_menu.css" type="text/css" media="all">	
+    <link rel="stylesheet" href="/Content/default.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/aig_style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/web_sum.css" type="text/css" media="all">
+    <script type="text/javascript" src="/Scripts/swfobject.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="/Scripts/chrome.js"></script>
+    <script type="text/javascript" src="/Scripts/centertab.js"></script>
+    <!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+
+function CheckInputData()
+{
+	var isSubmit = arguments[0];
+	var strFormId = arguments[1];
+	var isAllPass = false;
+	var strTestData = "";
+	var strBenchmark = "0123456789";
+	strBenchmark += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	strBenchmark += "_-#";
+	for (var idxArg=2; idxArg<arguments.length; idxArg++)
+	{
+		strTestData = window.document.getElementById(arguments[idxArg]).value;
+		strTestData = strTestData.toUpperCase();
+		if (CompareString(strTestData, strBenchmark) == false)
+		{
+			window.alert("請輸入正確檢索字，勿輸入特殊符號，如， % '..等"); 
+			return false;
+		}
+	}
+	if (isSubmit == true)
+		window.document.getElementById(strFormId).submit();
+}
+
+function CompareString(inTestData, inBenchmark)
+{
+	var strPattern = /^([\u4E00-\u9FA5]|[\uFE30-\uFFA0])*$/gi;
+	var isPass = false;
+	if ((inTestData.length > 0) && (inBenchmark.length > 0))
+	{
+		for (idxData=0; idxData<inTestData.length; idxData++)
+		{
+			isPass = false;
+			for (idxBanchmark=0; idxBanchmark<inBenchmark.length; idxBanchmark++)
+				if ((inBenchmark.charAt(idxBanchmark) == inTestData.charAt(idxData)) ||
+					(strPattern.test(inTestData.charAt(idxData)) == true))
+				{
+					isPass = true;
+					break;
+				}
+			if (isPass == false)
+				return false;
+		}
+	}
+	return true;
+}
+function search(){
+	//if(document.f1.keyword.value==""){alert("請輸入關鍵字!"); document.f1.keyword.focus(); return false;}
+	
+	document.f1.submit();
+}
+
+
+function checkStr(){
+		document.search.submit();
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+
+    <!--
+done = 0;
+step = 4
+function anim(yp,yk)
+{
+ if(document.layers) document.layers["moving_ad"].top=yp;
+ else  document.all["moving_ad"].style.top=yp;
+
+ if(yp>yk) step = -4
+ if(yp<100) step = 4
+ setTimeout('anim('+(yp+step)+','+yk+')', 100);
+}
+function start()
+{
+ if(done) return
+ done = 1;
+ if(navigator.appName=="Netscape") {
+  document.moving_ad.left=innerWidth/2 - 100
+  anim(280,innerHeight - 340)
+ }
+ else {
+  moving_ad.style.left=11;
+ anim(280,document.body.offsetHeight - 340)
+ }
+
+}
+//-->
+
+
+    
+    <style type="text/css">
+        .resize {
+            width: auto;
+            width: 1024px;
+        }
+
+        .resize {
+            height: auto;
+            height: 140px;
+        }
+
+        .main-1 {
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td width="5%" bgcolor="#FFFFFF">&nbsp;</td>
+                        <td width="90%" align="center">
+                            <table width="1024" border="0" cellspacing="0" cellpadding="0" align="center">
+                                <tbody><tr>
+                                    <td>
+
+                                        <div align="center">
+                                            <img src="/img/web.jpg" border="0" alt="回中心首頁" usemap="#Map">
+                                            <map name="Map">
+                                                <area shape="rect" coords="221,45,471,102" href="http://www.tii.org.tw">
+                                            </map>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <table width="1024" border="0" align="center" height="25" background="/img/header_bg.jpg">
+                                <tbody><tr>
+                                    <td width="90%" align="left"><font color="#FFFFFF">
+                                         					
+                                    </font></td>
+                                    <td width="10%" align="right">
+                                        <a id="nav1" align="right" href="http://www.tii.org.tw" class="top_link" title="中心首頁">中心首頁</a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                        <td width="5%" bgcolor="#FFFFFF">&nbsp;</td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tbody><tr>
+                        <td width="5%" bgcolor="#FFFFFF" height="100%">&nbsp;</td>
+                        <td width="90%" bgcolor="#FFFFFF" align="center">
+                            <table width="1024" border="0" bgcolor="#FFFFFF" align="center">
+                                <tbody><tr>
+                                    <!---左側選單-->
+                                    <td width="20%" height="500" valign="top" align="left">
+                                        <table border="0" cellspacing="0" cellpadding="0">
+                                            <tbody><tr>
+                                                <td width="15%" height="500" valign="top" align="center">
+                                                    <table border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody><tr>
+                                                            <td>
+                                                                <div id="ABOUTCONT_L">
+                                                                    <div class="MENUTOP"></div>
+                                                                    <div class="MENUMIDDLE">
+                                                                        <img src="/img/page001_28.jpg" width="196" height="6" alt="*">
+                                                                        <div class="glossymenu">
+                                                                            <a class="menuitem" href="/Default.aspx">首頁</a>
+                                                                            <a class="menuitem" href="/Query.aspx">查詢</a>
+                                                                            
+                                                                            
+                                                                            <a class="menuitem" href="/Links.aspx">連結</a>
+                                                                            
+                                                                            <a class="menuitem" href="/Query_31.aspx">違規記錄查詢</a>
+                                                                            
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="MENUDOWN"></div>
+                                                                </div>
+
+                                                            </td>
+                                                        </tr>
+
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        </td><td valign="top" bgcolor="#FFFFFF">
+                                            <!-- InstanceBeginEditable name="main" -->
+                                            
+    <script>
+        function NewCorps() {
+            strReturnVal = '';
+
+            aryRet = strReturnVal.split(';');
+            form1.CompanyID.length = aryRet.length - 1;
+
+            for (var i = 0; i < aryRet.length - 1; i++) {
+                form1.CompanyID.options[i].value = aryRet[i].substr(0, 3);
+                form1.CompanyID.options[i].text = aryRet[i];
+            }
+            form1.action = "Query.aspx";
+            form1.submit();
+        }
+    </script>
+    <div id="printContext">
+        <table width="95%" height="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td width="80%" valign="top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td width="10%" align="left" height="40"></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td background="img/dot01.gif">
+                                <img src="img/dot01.gif" width="3" height="1">
+                            </td>
+                        </tr>
+                    </tbody></table>
+
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td valign="top">
+                                <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td rowspan="2" align="right" valign="bottom">
+                                            <img src="img/icon02.gif" width="30" height="26">
+                                        </td>
+                                        <td valign="bottom" class="font03">查詢<a name="top" id="top"></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" valign="bottom">
+                                            <img src="img/icon02_01.gif" width="400" height="3">
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                    <tbody><tr>
+                                        <td align="center">
+                                            <img src="img/line_bar.gif" width="524" height="15">
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <table width="95%" border="0" align="right" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td valign="top">
+                                            <table width="90%" border="0" align="center" cellpadding="1" cellspacing="0">
+                                                <tbody><tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                            <tbody><tr>
+                                                                <td valign="top">
+                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                                        <tbody><tr>
+                                                                            <td width="7%" valign="top">
+                                                                                <img src="img/pic01_02.gif" width="30" height="30"></td>
+                                                                            <td width="93%" valign="bottom" class="font10">步驟一：可直接輸入「關鍵字」作商品名稱查詢</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top">&nbsp;</td>
+                                                                            <td valign="bottom" class="font10">《說明》請輸入保險商品名稱的可能關鍵字，例如「人壽」或「健康」等關鍵字。</td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                            <form name="form1" method="post" action="ResultQueryAll.aspx"></form>
+                                                                <tr>
+                                                                    <td valign="top">
+                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td width="7%">&nbsp;</td>
+                                                                                <td width="93%" class="font10">
+                                                                                    <table width="100%" border="0" cellpadding="3" cellspacing="0">
+                                                                                        <tbody><tr valign="top">
+                                                                                            <td colspan="2">
+                                                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                                                                    <tbody><tr>
+                                                                                                        <td width="16%">公司類別： </td>
+                                                                                                        <td width="84%">
+                                                                                                            <select name="categoryId" onchange="javascript:NewCorps();initC();">
+                                                                                                                <option value="" selected="">全部</option>
+                                                                                                                
+                                                                                                                <option value="1">財產保險</option>
+                                                                                                                
+                                                                                                                <option value="2" selected="">人身保險</option>
+                                                                                                                
+                                                                                                            </select>
+                                                                                                            <input type="hidden" name="postB" value="Y">
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr valign="top">
+                                                                                            <td colspan="2">
+                                                                                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                                                                    <tbody><tr>
+                                                                                                        <td width="16%">公司名稱： </td>
+                                                                                                        <td width="84%">
+                                                                                                            <select name="CompanyID">
+                                                                                                                
+                                                                                                                <option value="000">000-壽險全部</option>
+                                                                                                                
+                                                                                                                <option value="201">201-臺銀人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="202">202-台灣人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="203">203-保誠人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="204">204-國泰人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="205">205-凱基人壽保險股份有限公司(原中國人壽)</option>
+                                                                                                                
+                                                                                                                <option value="206">206-南山人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="207">207-國華人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="208">208-新光人壽保險股份有限公司(115年起與台新合併)</option>
+                                                                                                                
+                                                                                                                <option value="209">209-富邦人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="210">210-國寶人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="211">211-三商美邦人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="212">212-朝陽人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="215">215-幸福人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="216">216-遠雄人壽保險事業股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="217">217-宏泰人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="218">218-安聯人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="220">220-中華郵政股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="221">221-第一金人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="222">222-合作金庫人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="252">252-安泰人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="254">254-中國信託人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="255">255-台新人壽保險股份有限公司(115年起併入新光)</option>
+                                                                                                                
+                                                                                                                <option value="256">256-安達國際人壽保險股份有限公司(原康健人壽)</option>
+                                                                                                                
+                                                                                                                <option value="257">257-英屬百慕達商友邦人壽保險股份有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                                <option value="258">258-英屬百慕達商宏利人壽保險國際股份有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                                <option value="261">261-元大人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="262">262-環球瑞泰人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="264">264-全球人壽保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="267">267-法商法國巴黎人壽保險股份有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                                <option value="269">269-安達保險股份有限公司</option>
+                                                                                                                
+                                                                                                                <option value="270">270-英屬百慕達商安達人壽保險股份有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                                <option value="271">271-英屬百慕達商匯豐人壽保險國際有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                                <option value="272">272-英屬曼島商蘇黎世國際人壽保險股份有限公司台灣分公司</option>
+                                                                                                                
+                                                                                                            </select>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr valign="top">
+                                                                                            <td colspan="2">
+                                                                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                                    <tbody><tr>
+                                                                                                        <td valign="top">保險類別：</td>
+                                                                                                        <td align="left">
+                                                                                                            <select id="f_CategoryId1" name="f_CategoryId1">
+                                                                                                                <option value="">請選擇</option>
+                                                                                                                
+                                                                                                                <option value="2_1">傷害保險</option>
+                                                                                                                
+                                                                                                                <option value="2_2">健康保險</option>
+                                                                                                                
+                                                                                                                <option value="2_3">傳統型壽險</option>
+                                                                                                                
+                                                                                                                <option value="2_4">傳統型年金</option>
+                                                                                                                
+                                                                                                                <option value="2_5">投資型壽險</option>
+                                                                                                                
+                                                                                                                <option value="2_6">投資型年金</option>
+                                                                                                                
+                                                                                                            </select>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td width="90" valign="top">銷售日區間：</td>
+                                                                                                        <td>
+                                                                                                            <label for="textfield"></label>
+                                                                                                            <input name="qry_beginDate_SD1" type="text" id="qry_beginDate_SD1" size="9" maxlength="9">
+                                                                                                            ~
+                                                                                                            <input name="qry_beginDate_SD2" type="text" id="qry_beginDate_SD2" size="9" maxlength="9">
+                                                                                                            <br>
+                                                                                                            （請輸入民國年月日例如民國93年1月22日則輸入093/01/22）</td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td valign="top">停售日區間：</td>
+                                                                                                        <td>
+                                                                                                            <label for="checkbox"></label>
+                                                                                                            <input name="qry_endDate_ED1" type="text" id="qry_endDate_ED1" size="9" maxlength="9">
+                                                                                                            ~
+                                                                                                            <input name="qry_endDate_ED2" type="text" id="qry_endDate_ED2" size="9" maxlength="9">
+                                                                                                            <label for="checkbox">
+                                                                                                                <br>
+                                                                                                                （請輸入民國年月日例如民國93年1月22日則輸入093/01/22）<br>
+                                                                                                                <input type="checkbox" name="endDate2" value="Y" id="endDate2">
+                                                                                                                未停售
+                                                                                                                <input type="hidden" name="isqry" value="Y">
+                                                                                                            </label>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td valign="top">
+                                                                                                <table border="0" cellpadding="0" cellspacing="0">
+                                                                                                    <tbody><tr>
+                                                                                                        <td>關鍵字查詢：</td>
+                                                                                                        <td>
+                                                                                                            <input name="fQueryAll" type="text" class="field02">
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody></table>
+                                                                                            </td>
+
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td valign="top">查詢識別碼：
+                                                                                                <input name="bmpC" type="text" size="4">
+                                                                                                (請輸下方圖片內的驗證數字)
+														                                        <input name="isquery" type="hidden" value="Y"><input name="Go222" type="button" id="Go2225" style="background-image: url(img/search01.gif); height: 18px; width: 80px; cursor: hand; border: 0px solid;" onclick="document.form1.submit();" value=" ">
+                                                                                            </td>
+
+                                                                                        </tr>
+                                                                                    </tbody></table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                </tr>
+                                                            
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                            <tbody><tr>
+                                                                <td valign="top">
+                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                                        <tbody><tr>
+                                                                            <td width="7%" valign="top">
+                                                                                <img src="img/pic01_03.gif" width="30" height="30"></td>
+                                                                            <td width="93%" valign="bottom" class="font10">步驟一：或者可直接按鈕進入全文檢索功能</td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign="top" class="font10">
+                                                                    <form name="form2" method="post" action="QueryFullText.aspx">
+                                                                        <input type="hidden" name="fQueryAll">
+                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td width="7%">&nbsp;</td>
+                                                                                <td width="93%" class="font10">
+                                                                                    <input name="bmpC3" type="text" size="4">
+                                                                                    (請輸下方圖片內的驗證數字)
+                                                                                    <input name="Go2222" type="button" id="Go22225" style="background-image: url(img/search02.gif); height: 18px; width: 130px; cursor: hand; border: 0px solid;" onclick="document.form2.submit();" value=" ">
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </form>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top"></td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                    <td class="font10">
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                                                            <tbody><tr>
+                                                                <td style="padding-top: 10px;">圖形驗證碼：<img src="bmp.ashx" border="1"></td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+
+                            <td valign="top">
+                                <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <br>
+                    <br>
+                </td>
+            </tr>
+
+        </tbody></table>
+    </div>
+
+                                        </td>
+                                    
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <table width="100%" border="0">
+        <tbody><tr>
+            <td width="5%">&nbsp;</td>
+            <td width="90%" align="center">
+                <table>
+                    <tbody><tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                </tbody></table>
+
+                <table width="1024" border="0" align="center" background="/img/footer_bg.jpg">
+                    <tbody><tr>
+                        <td>
+                            <div align="center">
+                                <font color="#FFFFFF">中心地址：臺北市南海路3號6樓　電話：(02)2397-2227　E-mail：adm@tii.org.tw　<a href="https://www.tii.org.tw/tii/policy/" target="_blank" rel="noopener noreferrer" class="top_link">資安及個資政策</a>　<a href="https://www.tii.org.tw/tii/privacy/" target="_blank" rel="noopener noreferrer" class="top_link">隱私權聲明</a>版權所有
+                                </font>
+                            </div>
+                        </td>
+                    </tr>
+
+                </tbody></table>
+                <table>
+                    <tbody><tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td width="5%">&nbsp;</td>
+        </tr>
+    </tbody></table>
+
+
+</body></html>
