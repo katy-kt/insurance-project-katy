@@ -1,0 +1,373 @@
+2026-06-20 12:17:58,719 [INFO] 共找到 1542 份 PDF，開始掃描...
+2026-06-20 12:17:59,244 [WARNING]   pypdf 無法讀取 三商美邦人壽Go大心一年定期重大傷病健康保險附約(第2次部分變更)_211351RZ1A01221A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,281 [WARNING]   pypdf 無法讀取 三商美邦人壽Go安康防癌定期健康保險附約(第3次部分變更)_211321RZ1A01722A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,320 [WARNING]   pypdf 無法讀取 三商美邦人壽Go樂活一年定期長期照顧健康保險附約(第2次部分變更)_211361RZ1A00521A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,369 [WARNING]   pypdf 無法讀取 三商美邦人壽Go福康一年定期防癌健康保險附約(第3次部分變更)_211321RZ1A01621A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,463 [WARNING]   pypdf 無法讀取 三商美邦人壽三安人生多重重大傷病終身健康保險(第2次部分變更)_211351MZ1A00723A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,516 [WARNING]   pypdf 無法讀取 三商美邦人壽三寶人生多重重大傷病終身健康保險(第2次部分變更)_211351MZ1A00823A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,578 [WARNING]   pypdf 無法讀取 三商美邦人壽享健康住院醫療健康保險附約(第6次部分變更)_211311RZ1A02321A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,619 [WARNING]   pypdf 無法讀取 三商美邦人壽享優值終身健康保險附約(第6次部分變更)_211311RZ1A03522A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,764 [WARNING]   pypdf 無法讀取 三商美邦人壽享安心定期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01622A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,801 [WARNING]   pypdf 無法讀取 三商美邦人壽享慈愛美元豁免保險費健康保險附約(第4次部分變更)_211341RZ1A01422B11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:17:59,967 [WARNING]   pypdf 無法讀取 三商美邦人壽保健康住院醫療健康保險附約(第2次部分變更)_211311RZ1A04121A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:00,006 [WARNING]   pypdf 無法讀取 三商美邦人壽健康附約延續批註條款(第12次部分變更)_211391EZ1A01523A11Z10000012-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:00,041 [WARNING]   pypdf 無法讀取 三商美邦人壽健康附約延續批註條款(第26次部分變更)_211391EZ1A01523A11Z10000026-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:06,711 [WARNING]   pypdf 無法讀取 三商美邦人壽增保健康自負額住院醫療健康保險附約(第2次部分變更)_211311RZ1A04721A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:06,750 [WARNING]   pypdf 無法讀取 三商美邦人壽增健康住院醫療健康保險附約(第2次部分變更)_211311RZ1A03021A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,071 [WARNING]   pypdf 無法讀取 三商美邦人壽增康泰防癌終身健康保險附約_211321RZ1A02323A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,108 [WARNING]   pypdf 無法讀取 三商美邦人壽增新住院自負額住院醫療健康保險附約(第4次部分變更)_211311RZ1A03621A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,144 [WARNING]   pypdf 無法讀取 三商美邦人壽增正健康自負額住院醫療健康保險附約(第4次部分變更)_211311RZ1A03721A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,187 [WARNING]   pypdf 無法讀取 三商美邦人壽好安心豁免保險費健康保險附約(第3次部分變更)_211341RZ1A01621A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,223 [WARNING]   pypdf 無法讀取 三商美邦人壽好心安豁免保險費健康保險附約(第3次部分變更)_211341RZ1A01522A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,266 [WARNING]   pypdf 無法讀取 三商美邦人壽好漾手術醫療終身健康保險(第9次部分變更)_211391MZ9B03323A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,529 [WARNING]   pypdf 無法讀取 三商美邦人壽安心樂活長期照顧終身保險(109)(第11次部分變更)_211361MZ6B00423A11Z10000011-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,568 [WARNING]   pypdf 無法讀取 三商美邦人壽安心美元豁免保險費附約(104)(第9次部分變更)_211341RZ1A00922B11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,606 [WARNING]   pypdf 無法讀取 三商美邦人壽安心豁免保險費附約(107)(第19次部分變更)_211341RZ1A00322A11Z10000019-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,648 [WARNING]   pypdf 無法讀取 三商美邦人壽安心醫靠住院醫療定期健康保險(A型)(第1次部分變更)_211311MZ1A05122A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,687 [WARNING]   pypdf 無法讀取 三商美邦人壽安心醫靠住院醫療定期健康保險(B型)(第1次部分變更)_211311MZ1A05222A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,726 [WARNING]   pypdf 無法讀取 三商美邦人壽常春住院醫療保險附約(第13次部分變更)_211311RZ1A00721A11Z10000013-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,765 [WARNING]   pypdf 無法讀取 三商美邦人壽常青住院醫療健康保險附約(第5次部分變更)_211391RZ1A03421A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,908 [WARNING]   pypdf 無法讀取 三商美邦人壽心享樂活長期照顧定期健康保險_211361MZ6B01022A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,946 [WARNING]   pypdf 無法讀取 三商美邦人壽心好健康終身醫療健康保險附約(第19次部分變更)_211311RZ1A01223A11Z10000019-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:07,983 [WARNING]   pypdf 無法讀取 三商美邦人壽心守健康手術醫療終身健康保險(第20次部分變更)_211391MZ9B02023A11Z10000020-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,238 [WARNING]   pypdf 無法讀取 三商美邦人壽愛樂活長期照顧終身健康保險_211361MZ6B00823A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,607 [WARNING]   pypdf 無法讀取 三商美邦人壽愛關心重大傷病終身健康保險(第5次部分變更)_211351MZ1A01423A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,656 [WARNING]   pypdf 無法讀取 三商美邦人壽新33醫靠醫療定期健康保險(第7次部分變更)_211311MZ1A04522A11Z10000007-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,694 [WARNING]   pypdf 無法讀取 三商美邦人壽新Go大心一年定期重大傷病健康保險附約(第4次部分變更)_211351RZ1A01321A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,733 [WARNING]   pypdf 無法讀取 三商美邦人壽新住院醫療保險附約(第15次部分變更)_211311RZ1A00621A11Z10000015-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:08,872 [WARNING]   pypdf 無法讀取 三商美邦人壽新保健康住院醫療健康保險附約_211311RZ1A04921A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,109 [WARNING]   pypdf 無法讀取 三商美邦人壽新樂健康終身醫療健康保險附約(第4次部分變更)_211311RZ1B04223A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,147 [WARNING]   pypdf 無法讀取 三商美邦人壽新護健康終身醫療健康保險附約(第6次部分變更)_211311RZ1A04323A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,184 [WARNING]   pypdf 無法讀取 三商美邦人壽新重大疾病終身健康保險附約(甲型)(第17次部分變更)_211351RZ1A00123A11Z10000017-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,344 [WARNING]   pypdf 無法讀取 三商美邦人壽正健康住院醫療健康保險附約(第3次部分變更)_211311RZ1A03221A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,390 [WARNING]   pypdf 無法讀取 三商美邦人壽永保安康終身防癌保險(第2次部分變更)_211321MZ2B01123A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,425 [WARNING]   pypdf 無法讀取 三商美邦人壽法定傳染病排除等待期間批註條款(第1次部分變更)_211391EZ9D01723A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,465 [WARNING]   pypdf 無法讀取 三商美邦人壽法定傳染病排除等待期間批註條款(第5次部分變更)_211391EZ9D01723A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,499 [WARNING]   pypdf 無法讀取 三商美邦人壽海外突發疾病健康保險附加條款(第9次部分變更)_211391AZ1A01521A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,551 [WARNING]   pypdf 無法讀取 三商美邦人壽海外突發疾病醫療健康保險附約(第13次部分變更)_211391RZ1A01521A11Z10000013-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,583 [WARNING]   pypdf 無法讀取 三商美邦人壽溢安享特定傷病定期健康保險_211391MZ1A02122A11E10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,652 [WARNING]   pypdf 無法讀取 三商美邦人壽溢安心特定傷病定期健康保險_211391MZ1A02222A11E10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,689 [WARNING]   pypdf 無法讀取 三商美邦人壽溢安穩特定傷病定期健康保險_211391MZ1A02322A11E10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,724 [WARNING]   pypdf 無法讀取 三商美邦人壽溢步附加條款(第1次部分變更)_211391AZ1A04823A11E10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,823 [WARNING]   pypdf 無法讀取 三商美邦人壽溢起樂活長期照顧終身保險(第2次部分變更)_211361MZ6B00923A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,862 [WARNING]   pypdf 無法讀取 三商美邦人壽滿健康終身醫療健康保險_211311MZ1B05023A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,900 [WARNING]   pypdf 無法讀取 三商美邦人壽漾健康終身醫療健康保險(第12次部分變更)_211311MZ1B03123A11Z10000012-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:09,938 [WARNING]   pypdf 無法讀取 三商美邦人壽珍愛一年期健康保險附約(第2次部分變更)_211391RZ1A04621A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,158 [WARNING]   pypdf 無法讀取 三商美邦人壽珍愛樂活長期照顧終身保險(第6次部分變更)_211361MZ6B00723A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,208 [WARNING]   pypdf 無法讀取 三商美邦人壽珍愛醫靠住院醫療健康保險(A型)(第2次部分變更)_211311MZ1A05323A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,257 [WARNING]   pypdf 無法讀取 三商美邦人壽珍愛醫靠住院醫療健康保險(B型)(第2次部分變更)_211311MZ1A05423A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,617 [WARNING]   pypdf 無法讀取 三商美邦人壽真慈愛美元豁免保險費附約(新)(第10次部分變更)_211341RZ1A01022B11Z10000010-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,656 [WARNING]   pypdf 無法讀取 三商美邦人壽真慈愛豁免保險費附約(新)(第14次部分變更)_211341RZ1A00622A11Z10000014-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,695 [WARNING]   pypdf 無法讀取 三商美邦人壽祥安康防癌定期健康保險(第1次部分變更)_211321MZ1A02022A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:10,738 [WARNING]   pypdf 無法讀取 三商美邦人壽自在樂活長期照顧終身健康保險(第2次部分變更)_211361MZ6B00623A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:13,457 [WARNING]   pypdf 無法讀取 三商美邦人壽重大疾病終身健康保險附約(乙型)(107)(第9次部分變更)_211351RZ1A00923A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:13,508 [WARNING]   pypdf 無法讀取 三商美邦人壽重大疾病美元終身健康保險(104)(第4次部分變更)_211351MZ1A00623B11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:13,544 [WARNING]   pypdf 無法讀取 三商美邦人壽金安心美元豁免保險費健康保險附約(第4次部分變更)_211341RZ1A01322B11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:13,717 [WARNING]   pypdf 無法讀取 三商美邦人壽金愛護豁免保險費附約(新)(第11次部分變更)_211341RZ1A00822A11Z10000011-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:13,755 [WARNING]   pypdf 無法讀取 三商美邦人壽鑫慈愛豁免保險費健康保險附約(第3次部分變更)_211341RZ1A01721A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:35,697 [WARNING]   pypdf 無法讀取 全球人壽中國文化大學學生團體保險(第九次部分變更)_264396MZ9GY0821A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:36,387 [WARNING]   pypdf 無法讀取 全球人壽住院醫療日額健康保險(第七次部分變更)_264311MZ1AHIT21A11Z10000007-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:37,305 [WARNING]   pypdf 無法讀取 全球人壽全心全意2自負額醫療費用健康保險附約_264311RZ1AXHP21A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:37,333 [WARNING]   pypdf 無法讀取 全球人壽全心全意自負額醫療費用健康保險附約_264311RZ1AXHO21A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:37,468 [WARNING]   pypdf 無法讀取 全球人壽全鑫醫靠終身醫療健康保險_264311MZ1BPHF23A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:37,854 [WARNING]   pypdf 無法讀取 全球人壽卡有心85特定疾病定期健康保險附約(第四次部分變更)_264391RZ1AXCB22A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:37,934 [WARNING]   pypdf 無法讀取 全球人壽國立臺灣大學學生團體保險(第八次部分變更)_264396MZ9GY2621A11Z10000008-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:38,865 [WARNING]   pypdf 無法讀取 全球人壽團體一年定期癌症保險(第六次部分變更)_264323MZ1AYCD21A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:38,891 [WARNING]   pypdf 無法讀取 全球人壽團體一年定期防癌保險(第十一次部分變更)_264323MZ1AGCL21A11Z10000011-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:39,057 [WARNING]   pypdf 無法讀取 全球人壽團體一年手術醫療保險(第五次部分變更)_264393MZ1AYSI21A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:39,791 [WARNING]   pypdf 無法讀取 全球人壽團體一年癌症健康保險(第一次部分變更)_264323MZ1AHCS21A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:39,831 [WARNING]   pypdf 無法讀取 全球人壽團體一年癌症醫療保險(第六次部分變更)_264323MZ1AYCS21A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:39,901 [WARNING]   pypdf 無法讀取 全球人壽團體一年重大疾病保險（甲型）(第九次部分變更)_264353MZ1AYDD21A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:40,040 [WARNING]   pypdf 無法讀取 全球人壽團體一年重大疾病定期保險(第八次部分變更)_264353MZ5BYSD21A11Z10000008-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:40,199 [WARNING]   pypdf 無法讀取 全球人壽團體初次罹患癌症健康保險(第六次部分變更)_264323MZ1AYCF21A11Z10000006-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:40,795 [WARNING]   pypdf 無法讀取 全球人壽大專學生團體保險住院醫療健康保險附加條款（乙型）(第一次部分變更)_264316AZ1AYUB21A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:40,834 [WARNING]   pypdf 無法讀取 全球人壽大專學生團體保險住院醫療健康保險附加條款（甲型）(第一次部分變更)_264316AZ1AYUA21A11Z10000001-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:41,105 [WARNING]   pypdf 無法讀取 全球人壽好安心手術醫療終身健康保險附約(105)(第十三次部分變更)_264391RZ1AZPX23A11Z10000013-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:41,860 [WARNING]   pypdf 無法讀取 全球人壽安享醫靠終身醫療健康保險_264311MZ1APHE23A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:42,121 [WARNING]   pypdf 無法讀取 全球人壽實分鑫安醫療費用健康保險附約_264311RZ1AXHD21A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:42,159 [WARNING]   pypdf 無法讀取 全球人壽實在醫靠醫療費用健康保險附約(第二次部分變更)_264311RZ1AXHB21A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:42,190 [WARNING]   pypdf 無法讀取 全球人壽實足滿意醫療費用健康保險附約_264311RZ1AXHC21A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:42,532 [WARNING]   pypdf 無法讀取 全球人壽手術給付健康保險附約(第四次部分變更)_264391RZ1ASGT21A11Z10000004-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,158 [WARNING]   pypdf 無法讀取 全球人壽新醫療費用健康保險自負額附加條款(第二次部分變更)_264311AZ1AXHQ21A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,195 [WARNING]   pypdf 無法讀取 全球人壽樂齡有保定期特定傷病健康保險_264391MZ1ALLB22A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,231 [WARNING]   pypdf 無法讀取 全球人壽樂齡有心定期特定傷病健康保險_264391MZ1ALLC22A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,268 [WARNING]   pypdf 無法讀取 全球人壽樂齡有愛定期特定傷病健康保險_264391MZ1ALLA22A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,299 [WARNING]   pypdf 無法讀取 全球人壽樂齡有照長期照顧定期健康保險_264361MZ1ALLE22A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,659 [WARNING]   pypdf 無法讀取 全球人壽美元豁免保險費健康保險附約(第五次部分變更)_264341RZ1AF1822B11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,689 [WARNING]   pypdf 無法讀取 全球人壽老年住院醫療提前給付批註條款(第五次部分變更)_264391EZ1AZZ223A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,718 [WARNING]   pypdf 無法讀取 全球人壽老年照護住院醫療保險金附加條款(第五次部分變更)_264391AZ1AOME23A11Z10000005-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:43,776 [WARNING]   pypdf 無法讀取 全球人壽臻心85防癌定期健康保險附約(第二次部分變更)_264321RZ1AXCE22A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,084 [WARNING]   pypdf 無法讀取 全球人壽臻鑫久久豁免保險費健康保險附約（B型）(第三次部分變更)_264341RZ1AXWB21A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,366 [WARNING]   pypdf 無法讀取 全球人壽醫卡讚85重大傷病定期健康保險(第三次部分變更)_264391MZ1ADCE22A11Z10000003-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,426 [WARNING]   pypdf 無法讀取 全球人壽醫卡讚重大傷病一年期健康保險附約(第二次部分變更)_264391RZ1AXDE21A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,453 [WARNING]   pypdf 無法讀取 全球人壽醫定照長期照顧終身健康保險附約_264361RZ1AXLB23A11Z10000000-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,499 [WARNING]   pypdf 無法讀取 全球人壽醫療費用健康保險附約(第十一次部分變更)_264311RZ1AXHR21A11Z10000011-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,773 [WARNING]   pypdf 無法讀取 全球人壽醫鑫手護一年期手術健康保險附約(第二次部分變更)_264311RZ1AXSA21A11Z10000002-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:45,801 [WARNING]   pypdf 無法讀取 全球人壽重大疾病及特定傷病健康保險附約(第九次部分變更)_264351RZ1ADSR21A11Z10000009-A.pdf：cryptography>=3.1 is required for AES algorithm
+2026-06-20 12:18:53,801 [WARNING] Skipping broken line b'02ff  03ff  ff23': Odd-length string
+2026-06-20 12:18:53,951 [WARNING] Skipping broken line b'02ff  03ff  ff23': Odd-length string
+2026-06-20 12:21:35,899 [WARNING]   pypdf 無法讀取 宏泰人壽團體住院前後門診醫療費用保險金批註條款(第3次部分變更)_217313EZ1A00521A11Z10000003-A.pdf：Cannot read an empty file
+2026-06-20 12:22:32,111 [WARNING] incorrect startxref pointer(3)
+2026-06-20 12:22:32,116 [WARNING] parsing for Object Streams
+2026-06-20 12:23:50,320 [INFO] 
+共選出 15 份 PDF，開始複製與轉換...
+2026-06-20 12:24:24,589 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:24:28,106 [INFO] Going to convert document batch...
+2026-06-20 12:24:28,107 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:24:28,131 [INFO] Loading plugin 'docling_defaults'
+2026-06-20 12:24:28,141 [INFO] Registered picture descriptions: ['picture_description_vlm_engine', 'vlm', 'api']
+2026-06-20 12:24:28,159 [INFO] Loading plugin 'docling_defaults'
+2026-06-20 12:24:28,199 [INFO] Registered ocr engines: ['auto', 'easyocr', 'kserve_v2_ocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-06-20 12:24:28,438 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:24:28,439 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:24:29,398 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:24:38,951 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:24:38,973 [INFO] Loading plugin 'docling_defaults'
+2026-06-20 12:24:38,986 [INFO] Registered layout engines: ['layout_object_detection', 'docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-06-20 12:24:39,022 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:24:39,313 [INFO] HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,522 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,744 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:39,757 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/.gitattributes "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:39,759 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,773 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/.gitattributes "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,776 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/docling_heron_400.png "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:39,781 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,783 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:39,785 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:39,789 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-layout-heron/resolve/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/model.safetensors "HTTP/1.1 302 Found"
+2026-06-20 12:24:39,791 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/docling_heron_400.png "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,798 [WARNING] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 12:24:39,802 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/.gitattributes "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,805 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,821 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,832 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/docling_heron_400.png "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,844 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:24:39,845 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-layout-heron/8f39ad3c0b4c58e9c2d2c84a38465abf757272d8/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:56,890 [INFO] Loading plugin 'docling_defaults'
+2026-06-20 12:24:56,898 [INFO] Registered table structure engines: ['docling_tableformer', 'docling_tableformer_v2', 'granite_vision_table']
+2026-06-20 12:24:57,133 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,346 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitattributes "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,359 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitignore "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,360 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitattributes "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,364 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,371 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitignore "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,374 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,378 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,382 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts/tableformer/accurate/tableformer_accurate.safetensors "HTTP/1.1 302 Found"
+2026-06-20 12:24:57,389 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitattributes "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,391 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,406 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,408 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/.gitignore "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,410 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts/tableformer/accurate/tm_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,411 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts/tableformer/fast/tableformer_fast.safetensors "HTTP/1.1 302 Found"
+2026-06-20 12:24:57,412 [INFO] HTTP Request: HEAD https://huggingface.co/docling-project/docling-models/resolve/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts/tableformer/fast/tm_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:24:57,415 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,433 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts%2Ftableformer%2Faccurate%2Ftm_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,439 [INFO] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts%2Ftableformer%2Ffast%2Ftm_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,457 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts%2Ftableformer%2Faccurate%2Ftm_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:24:57,458 [INFO] HTTP Request: GET https://huggingface.co/api/resolve-cache/models/docling-project/docling-models/fc0f2d45e2218ea24bce5045f58a389aed16dc23/model_artifacts%2Ftableformer%2Ffast%2Ftm_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:25:27,580 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:25:28,441 [INFO] Processing document 三商美邦人壽團體365住院醫療保險(第2次部分變更)_211313MZ1A03921A11Z10000002-A.pdf
+2026-06-20 12:25:46,087 [INFO] Finished converting document 三商美邦人壽團體365住院醫療保險(第2次部分變更)_211313MZ1A03921A11Z10000002-A.pdf in 81.56 sec.
+2026-06-20 12:25:46,229 [INFO]   ✅ 三商美邦人壽團體365住院醫療保險(第2次部分變更)_211313MZ1A03921A11Z10000002-A.pdf → 三商美邦人壽團體365住院醫療保險(第2次部分變更)_211313MZ1A03921A11Z10000002-A.txt
+2026-06-20 12:25:46,458 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:25:46,462 [INFO] Going to convert document batch...
+2026-06-20 12:25:46,463 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:25:46,465 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:25:46,466 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:25:46,467 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:25:48,014 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:25:48,014 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:25:48,264 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:25:49,271 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:25:49,294 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:25:50,005 [INFO] Processing document 三商美邦人壽團體新住院醫療保險(第12次部分變更)_211313MZ1A00921A11Z10000012-A.pdf
+2026-06-20 12:27:03,617 [INFO] Finished converting document 三商美邦人壽團體新住院醫療保險(第12次部分變更)_211313MZ1A00921A11Z10000012-A.pdf in 77.27 sec.
+2026-06-20 12:27:03,740 [INFO]   ✅ 三商美邦人壽團體新住院醫療保險(第12次部分變更)_211313MZ1A00921A11Z10000012-A.pdf → 三商美邦人壽團體新住院醫療保險(第12次部分變更)_211313MZ1A00921A11Z10000012-A.txt
+2026-06-20 12:27:03,878 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:27:03,881 [INFO] Going to convert document batch...
+2026-06-20 12:27:03,882 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:27:03,885 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:27:03,886 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:27:03,886 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:27:05,183 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:27:05,198 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:27:05,449 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:27:06,707 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:27:06,728 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:27:07,437 [INFO] Processing document 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf
+2026-06-20 12:32:14,924 [INFO] Finished converting document 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf in 311.08 sec.
+2026-06-20 12:32:15,058 [INFO]   ✅ 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf → 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.txt
+2026-06-20 12:32:15,279 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:32:15,282 [INFO] Going to convert document batch...
+2026-06-20 12:32:15,283 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:32:15,285 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:32:15,287 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:32:15,288 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:32:16,775 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:32:16,775 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:32:17,104 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:32:18,418 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:32:18,436 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:32:19,644 [INFO] Processing document 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf
+2026-06-20 12:37:12,744 [INFO] Finished converting document 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf in 297.52 sec.
+2026-06-20 12:37:12,879 [INFO]   ✅ 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.pdf → 三商美邦人壽團體新住院醫療保險(第5次部分變更)_211317M11A00905-A.txt
+2026-06-20 12:37:13,047 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:37:13,056 [INFO] Going to convert document batch...
+2026-06-20 12:37:13,057 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:37:13,060 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:37:13,061 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:37:13,061 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:37:14,561 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:37:14,562 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:37:14,812 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:37:16,246 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:37:16,266 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:37:17,101 [INFO] Processing document 三商美邦人壽團體新住院醫療保險(第6次部分變更)_211317M11A00906-A.pdf
+2026-06-20 12:42:58,889 [INFO] Finished converting document 三商美邦人壽團體新住院醫療保險(第6次部分變更)_211317M11A00906-A.pdf in 345.89 sec.
+2026-06-20 12:42:59,034 [INFO]   ✅ 三商美邦人壽團體新住院醫療保險(第6次部分變更)_211317M11A00906-A.pdf → 三商美邦人壽團體新住院醫療保險(第6次部分變更)_211317M11A00906-A.txt
+2026-06-20 12:42:59,180 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:42:59,185 [INFO] Going to convert document batch...
+2026-06-20 12:42:59,186 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:42:59,188 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:42:59,190 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:42:59,190 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:43:00,717 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:43:00,718 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:43:01,031 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:43:02,156 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:43:02,176 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:43:03,079 [INFO] Processing document 三商美邦人壽團體新住院醫療日額型保險(第12次部分變更)_211313MZ1A00821A11Z10000012-A.pdf
+2026-06-20 12:44:37,117 [INFO] Finished converting document 三商美邦人壽團體新住院醫療日額型保險(第12次部分變更)_211313MZ1A00821A11Z10000012-A.pdf in 97.97 sec.
+2026-06-20 12:44:37,307 [INFO]   ✅ 三商美邦人壽團體新住院醫療日額型保險(第12次部分變更)_211313MZ1A00821A11Z10000012-A.pdf → 三商美邦人壽團體新住院醫療日額型保險(第12次部分變更)_211313MZ1A00821A11Z10000012-A.txt
+2026-06-20 12:44:37,476 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:44:37,483 [INFO] Going to convert document batch...
+2026-06-20 12:44:37,484 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:44:37,487 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:44:37,488 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:44:37,490 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:44:39,276 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:44:39,276 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:44:39,643 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:44:40,750 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:44:40,783 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:44:41,698 [INFO] Processing document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf
+2026-06-20 12:46:32,195 [INFO] Finished converting document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf in 114.75 sec.
+2026-06-20 12:46:32,335 [INFO]   ✅ 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf → 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.txt
+2026-06-20 12:46:32,511 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:46:32,520 [INFO] Going to convert document batch...
+2026-06-20 12:46:32,521 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:46:32,525 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:46:32,527 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:46:32,528 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:46:34,274 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:46:34,275 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:46:34,537 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:46:35,766 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:46:35,790 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:46:36,645 [INFO] Processing document 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf
+2026-06-20 12:50:23,455 [WARNING] RapidOCR returned empty result!
+2026-06-20 12:50:28,469 [INFO] Finished converting document 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf in 236.00 sec.
+2026-06-20 12:50:28,550 [INFO]   ✅ 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf → 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.txt
+2026-06-20 12:50:28,706 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:50:28,715 [INFO] Going to convert document batch...
+2026-06-20 12:50:28,716 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:50:28,719 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:50:28,720 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:50:28,721 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:50:30,134 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:50:30,135 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:50:30,367 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:50:31,800 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:50:31,822 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:50:32,648 [INFO] Processing document 三商美邦人壽Go大心一年定期重大傷病健康保險附約(第2次部分變更)_211351RZ1A01221A11Z10000002-A.pdf
+2026-06-20 12:58:44,650 [INFO] Finished converting document 三商美邦人壽Go大心一年定期重大傷病健康保險附約(第2次部分變更)_211351RZ1A01221A11Z10000002-A.pdf in 495.98 sec.
+2026-06-20 12:58:44,979 [INFO]   ✅ 三商美邦人壽Go大心一年定期重大傷病健康保險附約(第2次部分變更)_211351RZ1A01221A11Z10000002-A.pdf → 三商美邦人壽Go大心一年定期重大傷病健康保險附約(第2次部分變更)_211351RZ1A01221A11Z10000002-A.txt
+2026-06-20 12:58:45,175 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 12:58:45,189 [INFO] Going to convert document batch...
+2026-06-20 12:58:45,193 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 12:58:45,198 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 12:58:45,215 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 12:58:45,216 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:58:46,918 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 12:58:46,919 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:58:47,217 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 12:58:48,753 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 12:58:48,784 [INFO] Accelerator device: 'cpu'
+2026-06-20 12:58:49,655 [INFO] Processing document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf
+2026-06-20 13:00:46,313 [INFO] Finished converting document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf in 121.19 sec.
+2026-06-20 13:00:46,456 [INFO]   ✅ 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf → 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.txt
+2026-06-20 13:00:46,625 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 13:00:46,630 [INFO] Going to convert document batch...
+2026-06-20 13:00:46,631 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 13:00:46,633 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 13:00:46,635 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 13:00:46,636 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:00:48,285 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 13:00:48,286 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:00:48,562 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 13:00:50,200 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 13:00:50,227 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:00:51,166 [INFO] Processing document 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf
+2026-06-20 13:03:51,799 [WARNING] RapidOCR returned empty result!
+2026-06-20 13:03:59,947 [INFO] Finished converting document 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf in 193.36 sec.
+2026-06-20 13:04:00,041 [INFO]   ✅ 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf → 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.txt
+2026-06-20 13:04:00,225 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 13:04:00,233 [INFO] Going to convert document batch...
+2026-06-20 13:04:00,237 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 13:04:00,241 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 13:04:00,244 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 13:04:00,244 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:01,933 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 13:04:01,934 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:02,203 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 13:04:03,533 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 13:04:03,556 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:04,465 [INFO] Processing document 三商美邦人壽團體外國學生健康保險(第5次部分變更)_211313MZ1A02421A11Z10000005-A.pdf
+2026-06-20 13:04:28,007 [INFO] Finished converting document 三商美邦人壽團體外國學生健康保險(第5次部分變更)_211313MZ1A02421A11Z10000005-A.pdf in 27.83 sec.
+2026-06-20 13:04:28,199 [INFO]   ✅ 三商美邦人壽團體外國學生健康保險(第5次部分變更)_211313MZ1A02421A11Z10000005-A.pdf → 三商美邦人壽團體外國學生健康保險(第5次部分變更)_211313MZ1A02421A11Z10000005-A.txt
+2026-06-20 13:04:28,380 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 13:04:28,387 [INFO] Going to convert document batch...
+2026-06-20 13:04:28,388 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 13:04:28,392 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 13:04:28,394 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 13:04:28,394 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:30,275 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 13:04:30,275 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:30,566 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 13:04:31,797 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 13:04:31,823 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:04:32,732 [INFO] Processing document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf
+2026-06-20 13:06:27,359 [INFO] Finished converting document 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf in 119.02 sec.
+2026-06-20 13:06:27,517 [INFO]   ✅ 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.pdf → 114學年度高級中等以下教育階段學生及教保服務機構幼兒團體保險_204396MZ1GSYA21A11Z10000000-A.txt
+2026-06-20 13:06:27,749 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 13:06:27,754 [INFO] Going to convert document batch...
+2026-06-20 13:06:27,756 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 13:06:27,759 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 13:06:27,761 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 13:06:27,761 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:06:29,314 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 13:06:29,315 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:06:29,579 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 13:06:31,096 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 13:06:31,124 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:06:32,006 [INFO] Processing document 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf
+2026-06-20 13:10:24,799 [WARNING] RapidOCR returned empty result!
+2026-06-20 13:10:30,013 [INFO] Finished converting document 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf in 242.36 sec.
+2026-06-20 13:10:30,106 [INFO]   ✅ 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.pdf → 三商美邦人壽Go健康一年定期防癌健康保險附約(第1次部分變更)_211321RZ1A02122A11Z10000001-A.txt
+2026-06-20 13:10:30,262 [INFO] detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-06-20 13:10:30,266 [INFO] Going to convert document batch...
+2026-06-20 13:10:30,267 [INFO] Initializing pipeline for StandardPdfPipeline with options hash 1695fa85fa08b60052c5aacc98856e65
+2026-06-20 13:10:30,270 [INFO] rapidocr cannot be used because onnxruntime is not installed.
+2026-06-20 13:10:30,272 [INFO] easyocr cannot be used because it is not installed.
+2026-06-20 13:10:30,272 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:10:31,879 [INFO] Auto OCR model selected rapidocr with torch.
+2026-06-20 13:10:31,880 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:10:32,147 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-layout-heron/revision/main "HTTP/1.1 200 OK"
+2026-06-20 13:10:33,477 [INFO] HTTP Request: GET https://huggingface.co/api/models/docling-project/docling-models/revision/v2.3.0 "HTTP/1.1 200 OK"
+2026-06-20 13:10:33,497 [INFO] Accelerator device: 'cpu'
+2026-06-20 13:10:34,457 [INFO] Processing document 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf
+2026-06-20 13:13:35,722 [WARNING] RapidOCR returned empty result!
+2026-06-20 13:13:43,907 [INFO] Finished converting document 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf in 193.69 sec.
+2026-06-20 13:13:43,991 [INFO]   ✅ 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.pdf → 三商美邦人壽享安心一年期重大疾病健康保險(甲型)(第3次部分變更)_211351MZ1A01521A11Z10000003-A.txt
