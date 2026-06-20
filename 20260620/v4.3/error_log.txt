@@ -1,0 +1,10 @@
+{'product': '富邦人壽團體一年定期重大疾病保險\x11\x10\x0f\x11\x11\x12\x0f(第6次部分變更)', 'pdf_url': 'https://insprod.tii.org.tw/Open2.ashx?id=1a7fa406-dc1a-4050-9abd-1e4205f330b7'}
+{'product': '富邦人壽團體一年定期重大疾病保險\x11\x10\x0f\x11\x11\x12\x0f(第6次部分變更)', 'pdf_url': 'https://insprod.tii.org.tw/Open2.ashx?id=29da5896-2e92-4929-9726-657bc4d56e68'}
+{'product': '安達保險住院醫療日額保險(第4次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險日額型住院醫療健康保險(第3次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險癌症身故健康保險(第3次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險初次罹患癌症健康保險(第2次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險初次罹患特定癌症健康保險(第2次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險癌症外科手術健康保險', 'reason': 'no PDF found'}
+{'product': '安達保險一年定期保障健康保險(第2次部份變更)', 'reason': 'no PDF found'}
+{'product': '安達保險住院手術健康保險(第1次部份變更)', 'reason': 'no PDF found'}
